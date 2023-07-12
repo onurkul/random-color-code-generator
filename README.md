@@ -1,4 +1,4 @@
-# Rastgele Renk Kodu Üretici
-Bu proje ile rastgele renk kodları üretebilebilirsiniz.
+# Random Color Code Generator
+With this project you can generate random color codes.
 
-Örnek: https://onurkul.com.tr/araclar/rastgele-renk-kodu-uretici/
+Example: https://onurkul.com.tr/araclar/rastgele-renk-kodu-uretici/
